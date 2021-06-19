@@ -1,0 +1,64 @@
+body {
+    text-align: left;
+    background: rgb(255, 38, 188);
+    background: radial-gradient(circle, rgba(255, 38, 188, 1) 0%, rgba(0, 254, 255, 1) 100%);
+}
+
+.timeop {
+    text-align: right !important;
+    position: sticky;
+}
+
+nav {
+    position: sticky;
+    margin-top: 0;
+    z-index: 9999:
+}
+
+#home h1,
+#slife h4,
+#academic h4,
+#web h4,
+#fh {
+    font-family: 'Anton', sans-serif;
+}
+
+.web_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.web_head i {
+    float: right;
+}
+
+.group_li {
+    margin-top: 13px;
+}
+
+.group_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.group_li img {
+    border-radius: 25px;
+}
+
+.group_li p {
+    margin-top: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.modal-body {
+    text-align: center;
+    width: 70%;
+    height: 70%;
+}
