@@ -6,7 +6,6 @@ function getConfirmation() {
     if( retVal == true ) {
        return true;
     } else {
-       document.write ("Sorry Ma'am You have to click on it");
        return false;
     }
  }
